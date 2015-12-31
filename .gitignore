@@ -1,0 +1,10 @@
+bin/
+obj/
+Debug/
+Release/
+publish/
+.vs/
+*.user
+*.suo
+*.sdf
+*.filters
