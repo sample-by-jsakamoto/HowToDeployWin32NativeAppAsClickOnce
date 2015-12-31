@@ -8,3 +8,4 @@ publish/
 *.suo
 *.sdf
 *.filters
+*.opendb
